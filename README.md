@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rajat Bhattarai 👋
 
-<!--
-**BhattaraiRajat/BhattaraiRajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate of Computer Science researching **distributed systems and HPC resource management**.
 
-Here are some ideas to get you started:
+## 🔬 Some Research & Projects
+- **Los Alamos National Laboratory** - Elastic workflow systems for multi-node HPC clusters using Parsl, PMIx, MPI, and SLURM
+- **Lawrence Berkeley National Laboratory (NERSC)** - Monitoring and auto-scaling infrastructure for streaming workflows, interactEM
+- **NASA LOCSS Platform** ([locss.org](https://locss.org)) - Full-stack web + mobile app serving 200+ global water bodies *(repository private - funded research)*
+- **Publications:** IEEE IPDPS, Euro-Par on resource management and workflow optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Focus
+
+**Systems & HPC:** C/C++, Python, CUDA, MPI, PMIx, SLURM, distributed systems, Workflow Systems like Parsl, Colmena, interactEM, Dask
+**Full-Stack:** React, Node.js, Laravel, React Native, Docker, Podman
+**DevOps:** CI/CD, Prometheus, Grafana, cloud infrastructure
+
+## 📫 Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/bhattarairajat)  
+- 📧 rbhattara43@tntech.edu  
+
+---
+
+*Building scalable systems since 2015 - from scalable software to HPC workflows.*
